@@ -1,1 +1,4 @@
 Test data.
+
+Ok so now this file is not the same as the original/initial file because this statement was not here. 
+Also the other file called "Don't read me.txt" was added in this snapshot.
